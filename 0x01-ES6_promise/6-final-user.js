@@ -9,4 +9,3 @@ export default async function handleProfileSignup(firstName, lastName, fileName)
     newArray.push({ status: 'rejected', value: error.toString() })));
   return newArray;
 }
-  
