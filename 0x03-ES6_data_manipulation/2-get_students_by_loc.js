@@ -1,4 +1,4 @@
-export default function getStudentsByLocation(list, city) {
-   return list.filter((item) => item.location == city);
+export default function getStudentsByLocation(students, city) {
+   return students.filter((item) => item.location == city);
   }
   
