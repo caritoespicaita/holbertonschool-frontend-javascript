@@ -1,1 +1,1 @@
-Short Specialization frontend-javascript
+holbertonschool frontend javascript
