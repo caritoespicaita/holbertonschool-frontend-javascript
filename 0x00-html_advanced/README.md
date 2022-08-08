@@ -6,7 +6,7 @@ In this project, we will learn how to use HTML tags to structure a web page. No 
 - the code should be W3C compliant and validate with W3C-Validator[ W3C-Validator](https://github.com/holbertonschool/W3C-Validator)
 
 ## Sitemap of the project
-![image](images\html1.PNG)
+![image](../images/html1.PNG)
 
 ## Wireframe of `Techium`project
-![image](images\html1.PNG)
+![image](../images/html2.PNG)
